@@ -1,5 +1,8 @@
 # IntechOpen Chapter Proposal — Acceptance Record
 
+**Source:** https://github.com/jvzhu/Harvard-Business-Publishing/blob/main/intechopen-proposal-acceptance.md
+**Date captured:** August 22, 2026
+
 ## Chapter Proposal Review Report
 
 - **Chapter:** The Corporate Stage: Algorithmic Surveillance, Hybrid Visibility, and the Paradox of Spectatorship in the Modern Workplace
@@ -15,13 +18,13 @@ On behalf of the Academic Editor, IntechOpen confirmed that the chapter proposal
 
 ## Timeline
 
-| Milestone | Date |
-|---|---|
-| Proposal accepted | May 17, 2026 |
-| Full manuscript deadline | August 27, 2026 |
-| Manuscript sent to editor (Tea Jelaca) | Sent (this conversation) |
-| Definitive/full acceptance | Pending full chapter review |
-| Expected publication (per Google Scholar listing) | Feb 22, 2027 |
+| Milestone                                         | Date                        |
+| -------------------------------------------------- | --------------------------- |
+| Proposal accepted                                 | May 17, 2026                |
+| Full manuscript deadline                          | August 27, 2026             |
+| Manuscript sent to editor (Tea Jelaca)            | Sent                        |
+| Definitive/full acceptance                        | Pending full chapter review |
+| Expected publication (per Google Scholar listing) | Feb 22, 2027                |
 
 ## Note
 
