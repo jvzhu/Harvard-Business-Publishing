@@ -1,0 +1,53 @@
+\documentclass[11pt,a4paper]{article}
+
+% --- Core Packages ---
+\usepackage[utf8]{inputenc}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{cite}
+\usepackage{hyperref}
+\usepackage{booktabs}
+
+% --- Hyperlink Formatting ---
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    citecolor=blue,
+    urlcolor=blue
+}
+
+% --- Title & Author Metadata ---
+\title{\textbf{The Corporate Stage: Algorithmic Surveillance, Hybrid Visibility, and the Paradox of Spectatorship in the Modern Workplace}}
+
+\author{
+    \textbf{Vivien Jiaqian Zhu}\thanks{Department of East Asian Languages and Cultures, University of California, Berkeley; Office of the Vice Provost and Dean of Research, Stanford University. Email: \texttt{vjz@berkeley.edu}}
+}
+\date{} % Suppress default date display for edited volume chapters
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+\noindent This chapter introduces the ``corporate stage'' framework to examine how algorithmic surveillance and hybrid work reconfigure labor visibility, self-perception, and spectatorship. Synthesizing Goffman's dramaturgy, Foucault's panopticism, and Zuboff's surveillance capitalism, we analyze how domestic space is converted into a conditional front stage, forcing workers into dual roles as performing actors and self-monitoring audiences.
+\end{abstract}
+
+\textbf{Keywords:} Algorithmic Surveillance, Dramaturgy, Hybrid Work, Panopticism, Surveillance Capitalism, Spectatorship
+
+\section{Introduction}
+The reconfiguration of modern labor environments across physical and digital domains...
+
+\section{Theoretical Framework}
+\subsection{Dramaturgy and Panopticism on the Corporate Stage}
+Where Goffman's dramaturgy relies on physical architecture to enforce audience segregation...
+
+\section*{Appendix: Historiography of Qing-Era Fenye Cosmography}
+\addcontentsline{toc}{section}{Appendix: Historiography of Qing-Era Fenye Cosmography}
+The correlation of terrestrial space with celestial grids in Qing-era \textit{fenye} (field allocation) cosmography demonstrates a persistent historical imperative to map governance onto spatial structures...
+
+% --- References ---
+\bibliographystyle{unsrt} % IntechOpen uses sequential numerical citations
+\bibliography{references}
+
+\end{document}
