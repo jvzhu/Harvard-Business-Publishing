@@ -1,0 +1,16 @@
+\documentclass{article}
+\usepackage{cite}
+\usepackage{hyperref}
+
+\begin{document}
+
+\section{The Corporate Stage}
+Algorithmic metrics transform domestic environments into contested front stages \cite{goffman1959, zuboff2019}.
+
+\appendix
+\section{Historiography of Qing-Era Fenye Cosmography}
+The correlation of terrestrial space with celestial grids demonstrates persistent spatial mapping imperatives \cite{host2024}.
+
+\bibliographystyle{plain}
+\bibliography{references}
+\end{document}
